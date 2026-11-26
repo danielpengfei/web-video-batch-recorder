@@ -1,0 +1,54 @@
+# 录制产物：一律不进仓库
+*.mov
+*.mp4
+*.mkv
+*.webm
+*.wav
+*.aiff
+
+# 状态 / 断点 / 队列（含真实业务标识）
+batch-state.json
+batch-state.json.*
+*queue*.json
+*-state.json
+*verification*.json
+checkpoint_*.json
+recovery-journal*
+*.recording.json
+
+# 运行目录（队列/状态/输出落地处）
+data/
+
+# 日志
+*.log
+*.stderr.log
+*.stdout.log
+logs/
+
+# 凭据
+.env
+.env.*
+*.pem
+*.key
+secrets*
+*_token*
+credentials*
+
+# 系统垃圾
+.DS_Store
+._*
+.fseventsd/
+.Spotlight-V100/
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+
+# 录制证据与截图（含屏幕内容）
+evidence/
+frames/
+*.frame-*.png
+contact-sheet*.jpg
+
+# 私有材料：绝不进仓库（含内容标题/作者名/平台 ID/本机路径）
+.private/
