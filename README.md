@@ -106,7 +106,7 @@ web-video-batch-recorder/
 
 - **用途**：技术探讨与个人学习。本仓库不含内容、不含抓取器，不支持规避 DRM、付费墙或访问控制。
 - **版权**：录到的内容版权归原权利人。「个人学习」不是版权豁免——请只对你有权访问且有权录制的内容使用。
-- **授权**：源代码公开，条款为 [PolyForm Noncommercial 1.0.0](LICENSE)。个人、研究、非营利使用免费；**任何商业用途需单独书面授权**——邮件 [pengfei.lee17@gmail.com](mailto:pengfei.lee17@gmail.com) 或 [GitHub @danielpengfei](https://github.com/danielpengfei)。
+- **授权**：源代码公开，条款为 [PolyForm Noncommercial 1.0.0](LICENSE)。个人、研究、非营利使用免费；**任何商业用途需单独书面授权**——邮件 [daniel.commercial@gmail.com](mailto:daniel.commercial@gmail.com) 或 [GitHub @danielpengfei](https://github.com/danielpengfei)。
 - **措辞**：因为限制商业使用，严格意义上这是「源代码公开」而非 OSI 开源。
 - **担保**：按原样提供，不附带任何担保；录制失败、数据丢失等后果自负。
 - **关联**：与任何视频平台、课程提供方无关，未获其背书。

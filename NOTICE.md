@@ -38,7 +38,7 @@
 - 在企业生产环境中用于业务数据/课程内容的批量采集
 - 以本工具或其衍生作品提供任何形式的付费服务
 
-商业授权请邮件 **pengfei.lee17@gmail.com**，或在 GitHub 上联系 **[@danielpengfei](https://github.com/danielpengfei)**（开 issue 或私信），说明使用场景、规模与期限。
+商业授权请邮件 **daniel.commercial@gmail.com**，或在 GitHub 上联系 **[@danielpengfei](https://github.com/danielpengfei)**（开 issue 或私信），说明使用场景、规模与期限。
 
 **关于「开源」这个词的准确用法**
 
@@ -61,6 +61,6 @@ This is a research and study project about **batch window recording with integri
 - It contains **no content crawler** and **no content**. You prepare the queue yourself.
 - It does **not** circumvent DRM, paywalls or any access control. Do not use it for that.
 - **You are responsible** for having the right to access and record what you record. "Personal study" is not a copyright exemption in most jurisdictions.
-- Licensed under the **PolyForm Noncommercial License 1.0.0** (see [LICENSE](LICENSE)): free for personal, research and other noncommercial use. **Commercial use requires a separate written license** — email `pengfei.lee17@gmail.com` or contact [@danielpengfei](https://github.com/danielpengfei).
+- Licensed under the **PolyForm Noncommercial License 1.0.0** (see [LICENSE](LICENSE)): free for personal, research and other noncommercial use. **Commercial use requires a separate written license** — email `daniel.commercial@gmail.com` or contact [@danielpengfei](https://github.com/danielpengfei).
 - Because commercial use is restricted, this project is **source-available, not OSI open source**.
 - Provided **as is**, without warranty of any kind. Not affiliated with, or endorsed by, any platform or course provider.
